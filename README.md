@@ -1,2 +1,2 @@
 # Game
-i tried making a game with SFML library in C++.
+I tried making a game with SFML library in C++.
